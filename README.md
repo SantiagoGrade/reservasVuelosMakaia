@@ -2,4 +2,4 @@
 
 Diagrama UML
 
-[![Proyecto-Gestion-Vuelos.jpg](https://i.postimg.cc/sD3Tw9Pz/Proyecto-Gestion-Vuelos.jpg)](https://postimg.cc/NLP80XPC)
+[Proyecto-Gestion-Vuelos.jpg](https://postimg.cc/T525HJfg)
